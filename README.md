@@ -1,2 +1,4 @@
-# lista-exercicio-7-java-poo-e-strings
-Lista de atividades relacionadas a POO e Strings na linguagem java.
+Neste repositório de atividades, encontraremos exercícios 
+onde utilizaremos a combinação de POO e Strings.
+Todas as atividades foram resolvidas no aplicativo Visual
+Studio Code, na linguagem de programação JAVA. 
